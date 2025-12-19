@@ -27,6 +27,7 @@ Project Team: Iram Hameed (221994), Eman Fatima (222007)
 - Displays current day and date.
 - Responsive and modern UI design.
 
+![](https://raw.githubusercontent.com/se-iram/WeatherApp-AndroidApp/refs/heads/main/Screenshots/Screenshot%202025-12-19%20130345.jpg)
 ---
 
 ## Screenshots
