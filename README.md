@@ -1,7 +1,8 @@
 # Android Weather App 🌦️
 
 A modern Android Weather App that allows users to search for any city and get real-time weather information along with visually appealing animations.
-The Weather App is an Android application that helps users quickly check the current weather for any city. It solves the problem of having to search multiple sources for weather information by providing real-time temperature, humidity, wind speed, and weather conditions in a single, easy-to-use app with a clean and dynamic interface
+The Weather App is an Android application that helps users quickly check the current weather for any city. It solves the problem of having to search multiple sources for weather information by providing real-time temperature, humidity, wind speed, and weather conditions in a single, easy-to-use app with a clean and dynamic interface.
+
 ---
 
 Project Team: Iram Hameed (221994), Eman Fatima (222007)
