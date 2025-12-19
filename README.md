@@ -34,13 +34,9 @@ Project Team: Iram Hameed (221994), Eman Fatima (222007)
 
 ![](https://github.com/se-iram/WeatherApp-AndroidApp/blob/main/Screenshots/Screenshot%202025-12-19%20123204.jpg?raw=true)
 
-**Search Functionality**
-
-![Search Placeholder](INSERT_YOUR_SCREENSHOT_URL_HERE)
-
 **Different Weather Conditions**
 
-![Weather Condition Placeholder](INSERT_YOUR_SCREENSHOT_URL_HERE)
+![](https://raw.githubusercontent.com/se-iram/WeatherApp-AndroidApp/refs/heads/main/Screenshots/Screenshot%202025-12-19%20123304.jpg)
 
 ---
 
