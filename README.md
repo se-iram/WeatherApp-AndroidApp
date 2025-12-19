@@ -32,7 +32,7 @@ Project Team: Iram Hameed (221994), Eman Fatima (222007)
 ## Screenshots
 **Home Screen / Weather Display**
 
-![Home Screen Placeholder](Screenshot 2025-12-19 123204.jpg)
+![Home Screen Placeholder](Screenshots/Screenshot 2025-12-19 123204.jpg)
 
 **Search Functionality**
 
