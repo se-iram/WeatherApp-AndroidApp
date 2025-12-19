@@ -32,7 +32,7 @@ Project Team: Iram Hameed (221994), Eman Fatima (222007)
 ## Screenshots
 **Home Screen / Weather Display**
 
-![](Screenshots/Screenshot 2025-12-19 123204.jpg)
+![](https://github.com/se-iram/WeatherApp-AndroidApp/blob/main/Screenshots/Screenshot%202025-12-19%20123204.jpg?raw=true)
 
 **Search Functionality**
 
