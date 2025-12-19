@@ -1,4 +1,4 @@
-# Weather App 🌦️
+# Android Weather App 🌦️
 
 A modern Android Weather App that allows users to search for any city and get real-time weather information along with visually appealing animations.
 
@@ -32,7 +32,7 @@ Project Team: Iram Hameed (221994), Eman Fatima (222007)
 ## Screenshots
 **Home Screen / Weather Display**
 
-![Home Screen Placeholder](INSERT_YOUR_SCREENSHOT_URL_HERE)
+![Home Screen Placeholder](Screenshot 2025-12-19 123204.jpg)
 
 **Search Functionality**
 
